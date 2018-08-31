@@ -1,4 +1,4 @@
-# https-github.com-avispa4291--Exploratory-Data-Analysis-Proj1
+#Exploratory Data Analysis Project 1
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
 
 Dataset: Electric power consumption [20Mb]
